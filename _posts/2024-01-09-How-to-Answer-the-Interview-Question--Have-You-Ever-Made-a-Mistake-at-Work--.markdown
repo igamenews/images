@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Answer the Interview Question "Have You Ever Made a Mistake at Work?""
+title: "How to Answer the Interview Question 'Have You Ever Made a Mistake at Work?'"
 date:   2024-01-09 08:59:50 +0000
 categories: News
 excerpt_image: https://www.sterlingcareerconcepts.com/wp-content/uploads/2016/02/LB-6_Strategies_for_Answering_Interview_Questions-900x1440.jpg
