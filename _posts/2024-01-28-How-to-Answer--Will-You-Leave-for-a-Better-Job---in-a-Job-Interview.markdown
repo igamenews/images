@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Answer "Will You Leave for a Better Job?" in a Job Interview"
+title: "How to Answer 'Will You Leave for a Better Job?' in a Job Interview"
 date:   2024-01-28 22:44:42 +0000
 categories: News
 excerpt_image: https://www.interviewprotips.com/wp-content/uploads/how-to-answer-the-most-common-interview-questions-with-585x1024.jpeg
